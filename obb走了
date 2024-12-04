@@ -1,0 +1,5 @@
+cd $HOME/obbtool
+chmod +x zoulobb
+chmod +x unlock
+chmod +x 菜单
+./菜单
