@@ -6,7 +6,7 @@ pkg install git
 
 termux-setup-storage
 
-git clone https://github.com/zoulobb/obbtool.git
+git clone https://github.com/guts1238/obbtool.git
 
 cd obbtool
 
@@ -14,4 +14,4 @@ chmod +x zoulobb
 
 ./zoulobb
 
-以后使用直接输入 obb走了 就可以了
+ guts
